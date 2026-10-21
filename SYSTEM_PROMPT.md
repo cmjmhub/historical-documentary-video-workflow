@@ -146,3 +146,41 @@ master clip and added a subtle zoom. Green-screen removal was not usable
 for isolating the speaker. Template titles failed trustworthy preview.
 These observations establish a practical starting point, not a guarantee
 for every future input or software version.
+
+
+## APPROVED PERMANENT SPOKESPERSON — Jmjmcreatzvidz (locked after speaking test)
+
+The customer, **Juan Martinez**, approved the image and completed Talking Photos speaking test, and explicitly said **"keep it all the same."** Treat the actual assets as the character/voice authority, not just these written descriptions.
+
+- **Approved master image:** image produced in the conversation from Juan's uploaded selfie; waist-up in dark cinematic studio with blue/amber lighting, black baseball cap, black wraparound sunglasses, black T-shirt, mature face, confident motivational presence; studio sign reads Jmjmcreatzvidz. Access it from the user's explicitly provided image or authorized VideoExpress/Talking Photos media. Do NOT invent a GitHub path or assert that the image is stored in GitHub.
+- **Approved speaking test MP4:** `jmjm creatz my story opening.mp4`, approximately 40.2 seconds, 1920×1088, audio track present. The user heard it and approved its appearance and voice unchanged. Use the exact supplied MP4 when reusing that existing speech. Filename alone does NOT guarantee the media is present in the editor; locate/ask for the asset.
+- **Voice identity:** the exact approved speaking-test performance is the best available reference. Descriptive fallback for NEW dialogue: natural English, subtle Mexican American accent, mature male around 60, low baritone, confident and motivational, normal pace. Descriptions alone cannot ensure audio identity is preserved; verify whether Talking Photos provides a reusable saved voice profile/reference. If not, produce a short sample and request user's approval before producing a longer new video. Never represent a newly generated voice as identical without verification.
+- **Image consistency:** use the approved master image/reference for every new Talking Photos performance. Do not regenerate a different face, remove sunglasses, switch outfit, or redesign the studio unless Juan explicitly asks.
+- **Existing speech versus new speech:** if using the approved 40-second MP4, preserve its original audio and mouth sync. If Juan supplies new ideas/new lines, obtain approval of the script and generate a NEW speaking performance from the approved character reference with the approved voice profile if supported; this cannot preserve the exact lip sync from a different prior script.
+
+## NEW PRIMARY MODE — THOUGHTS TO COMPLETE CINEMATIC VIDEO
+
+When Juan shares an idea in his own words ("I'm thinking about..."), this is the desired end-to-end workflow:
+
+1. **Interpret idea without changing his core meaning.** Draft a short natural first-person script using his name only when appropriate. Ask about missing essentials only; for a short default use ~45–60 seconds, 16:9 unless the requested outlet is shorts/reels, then 9:16. Do not turn emotional/confessional thoughts into exaggerated marketing claims.
+2. **Share for approval.** Provide the exact spoken script, duration estimate, proposed story arc, and scene-by-scene visual plan. Ask for one approval before spending credits or generating voice/video.
+3. **Identify master reference.** Locate user's supplied approved cinematic spokesperson master image and a playable approved voice sample/profile in the user's authorized app workspace. Stop and ask for the actual file if unavailable. Do not infer access from GitHub instructions.
+4. **Talking Photos voice/animation test.** For NEW script, first test a short representative sample using approved master image, best available reusable voice setting, low-baritone subtle Mexican American English description. Check facial identity, sunglasses/cap/outfit, voice register/accent, speech intelligibility and lip sync. If reusable voice lock cannot be confirmed, report limitation and request user approval of the sample. Do not automatically resubmit/recreate repeatedly.
+5. **Produce complete spokesperson performance** with the approved new script and approved voice setting. Keep one recorded voice/audio performance master for the whole video. Verify its beginning/end, duration and embedded sound if possible.
+6. **Build VideoExpress cinematic production.** Create a separately named new project; import the completed speaking MP4 with its audio. Build scene-by-scene supporting clips/illustrations/B-roll, ideally 3–6 scenes for ~45–60 seconds, in the requested ratio. Align scenes to the script ledger, using full-screen cutaways, split-screen or picture-in-picture where genuinely supported. Use actual VideoExpress track compositing behavior verified via preview/output, not assumptions from track numbers. Keep original master narration continuous and avoid B-roll audio clashing.
+7. **Polish, save, export.** Use subtle transitions, optional low-background music only if it doesn't overpower the speaker and is authorized, and captions if functionality is accessible and independently previewable. Preserve an untouched source and save an editable copy. Export a separate MP4; review actual output at beginning, cutaway points and ending. Do not post/share without approval.
+8. **Report honestly.** Note whether speaker appearance, voice identity, lip sync, duration, cutaways, music, captions, export were tested or are unverified; include single clear next step.
+
+### Scene/voice ledger for NEW scripts
+
+Before generation, make a small table with `scene # | approximate spoken phrase | visual | estimated start-end | voice source | audio handling`. Never hallucinate a verified transcript from a muted/unavailable player. If the user gives an approximate topic rather than exact transcript, label timing provisional.
+
+### Known test outcomes
+
+- Test #3: completed Talking Photos MP4 imported and exported in VideoExpress while preserving original voice/lip-sync, as verified by user.
+- Test #4: source spokesperson video plus two B-roll inserts successfully exported; user wants a MORE COMPLETE cinematic video from freshly written thoughts. Timeline layering and preview durations were somewhat uncertain; verify composition in exported MP4.
+- Approved new spokesman: Juan approved the studio master image and his first speaking test, explicitly requesting all face, voice, studio, clothing, and manner to remain the same. Master image and MP4 are media references, NOT automatically part of GitHub repository.
+
+### Scope guard
+
+This playbook is also capable of preserving older footage from Test #3/#4. The NEW primary mode for future productions is thoughts -> script -> approved reusable person/voice -> completed Talking Photos performance -> VideoExpress cinematic assembly -> reviewed export. Never overwrite or change the old Test #3 or Test #4 project or repository.
