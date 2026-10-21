@@ -1,61 +1,44 @@
-# Historical Documentary Video Workflow
+# Jmjmcreatzvidz — Spokesperson Video Enhancer
 
-Create a documentary that explains **the history of a subject and how it was built**, using a photorealistic presenter introduction followed by animated watercolor scenes.
+A reusable GitHub playbook for turning **existing Talking Photos speaking videos**
+into polished **new VideoExpress productions** without changing the spokesperson's
+original face, voice or lip-sync.
 
-## Requirements
+**Source inspiration:** [ai-playbooks Historical Documentary Video Workflow](https://github.com/ai-playbooks/historical-documentary-video-workflow).
+This fork has been adapted for general-purpose spokesperson enhancement rather
+than recreating the historical documentary generator.
 
-- A browser-capable agent that can follow the instructions in `SYSTEM_PROMPT.md`.
-- Access to [VideoExpress](https://app.videoexpress.ai/) and [CloneVoice](https://app.clonevoice.ai/), with generation access available.
-- Sign in when prompted. The workflow uses the agent's visible built-in browser unless you authorize another browser.
+## Simple workflow
 
-This folder contains instructions for browser automation. It is not a standalone executable or a direct API workflow.
+1. **Talking Photos:** Supply an existing MP4 with complete speaking performance.
+2. **VideoExpress:** Import once with embedded original audio, then save a NEW
+   project without overwriting the master.
+3. **VideoExpress:** Make new scenes, B-roll, animations, or cutaways around that
+   recorded narration. Keep original speech playing and synchronized.
+4. **Finish:** Preview, export and review the edited MP4.
 
-## How to use
+This does **not** require cutting out the speaker or changing their background
+within the original video. Supporting images, screen recordings, and cinematic
+cutaways can be composited as separate scenes. For a true person-on-new-background
+cutout, a verified compatible subject-isolation/alpha workflow is required;
+the tested VideoExpress green-screen filter was insufficient for the original
+Talking Photos footage.
 
-1. Load `SYSTEM_PROMPT.md` as the instructions for your browser automation agent, or ask the agent to read and follow that file.
-2. Start the workflow. It asks four questions together:
+## Instructions for ChatGPT Work
 
-   | Question | Default |
-   |---|---|
-   | Idea/Script | Supply a historical topic or your own script |
-   | Character | Daniel Reed, a fictional male presenter with a calm American English voice |
-   | Ratio | Landscape 16:9; Vertical 9:16 is also supported |
-   | Duration | 60 seconds total, up to 5 minutes |
+Read [SYSTEM_PROMPT.md](SYSTEM_PROMPT.md) and use an authorized browser session
+to inspect VideoExpress. A sample request:
 
-3. Reply with your choices. For example:
+> Use this playbook with my existing Talking Photos MP4. Preserve the
+> character, original voice and lip-sync. Create a separate VideoExpress
+> project, add two supporting visual cutaways while keeping the master
+> narration intact, then export. Do not overwrite Test #3.
 
-   ```text
-   Idea/Script: Explain the history of medieval London Bridge and how it was built.
-   Character: Keep the default.
-   Ratio: Landscape.
-   Duration: 120 seconds.
-   ```
+No external captioning, purchases, public sharing, or new voice generation
+without separate authorization. If preview/listening is unavailable, disclose
+what cannot be verified.
 
-4. Let the agent complete generation and timeline assembly. It saves the project and clicks **Export Video**, then stops. It does not download the video.
+**Brand credit:** Created by Jmjmcreatzvidz.
 
-## What it creates
-
-**Presenter intro — at least 20 seconds:** A character sheet establishes the presenter. The agent saves it to My AI Images, uses it as a consistent-character reference for a location scene, then generates speaking clips with the same voice description. The intro gives context and introduces the history and construction story.
-
-**Historical documentary:** Ethan Sterling narration is created in CloneVoice. Watercolor-and-ink visuals illustrate who, when and why, followed by materials, tools, transport and building methods. Clothing, equipment and architecture follow the subject's period and location.
-
-**Active multi-shot clips:** Prompts use `Total duration` and timed `SHOT 1 / SHOT 2 / SHOT 3` sections, with hard cuts and distinct camera angles. Workers carry, pour, place, compact and build through connected actions. Asset IDs and internal labels stay out of generation text; subtitles and visible shot labels are not requested.
-
-## Audio and video timing
-
-The requested duration guides the initial script. Once narration is completed, it is reused unchanged: no repeated generation, audio cuts, silence trimming or speed changes to force a target runtime.
-
-The narration starts after the actual intro endpoint. Video coverage extends to the audio clip's right edge. To remove excess footage, the agent places the playhead at that edge, selects the last video clip, clicks **Cut**, and deletes only the excess right-hand video chunk. The final length therefore follows the completed audio plus intro and can differ slightly from the initial estimate.
-
-## Working preferences
-
-- No routine audio/video playback QA or unrequested Share actions.
-- Presenter speech stays audible; documentary clip audio is muted beneath the narration.
-- Reuse completed assets when resuming a production.
-- Edit instructions in place; do not create timestamped backup prompts or unnecessary reports.
-- Generated visuals and voice consistency can vary. Review the saved result before publishing.
-
-## Files
-
-- [SYSTEM_PROMPT.md](SYSTEM_PROMPT.md) — instructions the automation agent follows.
-- `README.md` — this short usage guide.
+GitHub stores the playbook text—not the actual videos, credentials, or an
+editable VideoExpress project.
