@@ -1,3 +1,45 @@
+# FAST VIDEO CREATOR VERSION 2 — PRIMARY OPERATING RULES
+
+These Version 2 rules govern the fastest safe path for **new** Jmjmcreatzvidz productions. Follow the existing identity, rights, sound, and non-destructive safeguards later in this file. They do not change earlier completed projects.
+
+## Objective
+Juan Martinez submits one idea, song, or already-produced Talking Photos MP4. The agent should produce a ready-for-review, saved cinematic edit with as few interruptions as possible. GitHub is an instruction playbook; video generation and editing still require the authorized app/browser, and processing speed or one-click integration is not guaranteed.
+
+## Single brief and single routine approval
+- First read the user's current brief and repository, and use already answered details. Produce ONE compact plan including: project name, story and source assets, intended runtime/aspect ratio, visual progression, voice/audio handling, max NEW renders/retakes, and costs/limits.
+- Ask once for consent to proceed with that concrete production budget and editing plan. After approval execute routine asset verification, storyboard adjustments, reuse, generation, arranging, muted B-roll, gap checks, and saving without asking for a new permission for every clip.
+- New purchases, subscriptions, external uploads, publication, unexpected materially changed story, voice/face substitutions, substantial budget overruns, destructive edits, or newly discovered paid operations ALWAYS require fresh authorization.
+- When user has already approved the plan and budget in the current conversation, do not ask again unless constraints materially change.
+
+## Source-of-truth and preflight checklist (execute ONCE, retry only upon new problem)
+1. Find the correct saved VideoExpress project or create a NEW project/copy. Use the user's exact name; never choose an unrelated similarly named video. If working on an existing project, save a separate working copy/checkpoint BEFORE destructive changes.
+2. Verify source media in the *VideoExpress editor*, not merely Library filename: approved Talking Photos MP4 is visible/audible where playback is available, same face and uninterrupted audio; complete original music MP3 is recognized with correct duration and preview if accessible. Check song offset = end of intro. Distinguish media-library existence from linked timeline clips.
+3. If "DELETED" or "1 media file is unavailable" appears, reopen/recheck once: the prior project experienced a stale warning. If it persists or a referenced clip truly fails, STOP and identify it. Do NOT silently ignore or delete media.
+4. Cloud browser file-picker limitations: file chooser may not open, or show 0 bytes + "Server responded with 0 code." Do not loop uploads. Ask Juan to upload the specific missing file once in his local Chrome VideoExpress session, then resume at checkpoint and verify. Do not tell him to rebuild a timeline.
+5. Preview or verify existing sunrise vehicle, worker-in-scrubs, editing desk, mountains/roads, night sky and other useful clips; only use them when actually present and suitable. A named clip or thumbnail without preview is not verified.
+6. Confirm version labels are not payment units: "3.5" is the VideoExpress version, not a verified per-clip price. All Access plan historically stated included AI clips, but never assume remaining allowance is available. Before generation check for *current* paywall, quota, and sharing settings. Keep "Share this in the public gallery" OFF.
+
+## Editing engine
+- Convert user-provided script/lyrics into a scene ledger organized by emotional arc. Do not claim second-exact lyric alignment if you cannot hear/inspect audio. Timing estimates remain provisional.
+- Prefer REUSE-FIRST: inventory previously approved clips and select nonrepetitive footage; render only missing shots. For music, the completed successful reference used 18 contiguous cutaways, of which 17 were reused and only 1 newly generated. This is a precedent, not a fixed target.
+- For NEW voice content, approved stable image, attire, setting, and voice must be referenced. A previously recorded speaker performance cannot be repurposed to say new words while keeping identical mouth performance. A reusable voice is only "locked" when a verified setting/sample exists. Use a short voice test and get approval when needed.
+- For approved existing narration: preserve full recorded speaker MP4 with original audio/lip-sync. For a full music video: keep entire master intro unchanged then complete original song unchanged and uninterrupted; move music start to exact intro endpoint. Do not overlap vocals and narration. Preserve silent ending when user requires full original file.
+- Place contiguous visuals over the song; choose sequence lengths appropriate to source clips, use muted supporting video tracks, and preview composition. The physical track *number* does NOT determine compositing behavior without inspection.
+- Verify 00:00, intro/song changeover, middle, last shot and true final frame. Avoid black gaps *inside* content; black at the timeline endpoint can be normal. Check every clip boundary programmatically where editor supports it; if not, say sampling was partial.
+- Save editable Production Copy as "<Project Title> — Production Copy" (or user's supplied name), leaving source/original and Test #3/#4 untouched. Do not overwrite unrelated projects.
+
+## Efficient batch execution
+- After one approval, generate and place clips in organized batches, verifying output and count as you proceed. Track `source reusable clips`, `new renders`, `retakes`, `duration covered`, and `remaining gaps`. This ledger avoids lost sessions, duplication and rework.
+- If the browser session interrupts, open saved copy and resume only missing segments; do NOT regenerate finished clips and do NOT restart project unless repair is impossible.
+- Stop on payment prompts, quota depletion, blocked media, unexpected nonfunctional tools, or inability to meet approved voice/identity requirements. Otherwise keep going through saved edit without repeated check-ins.
+
+## Output and final review
+- After assembly: report succinctly in one message: project/copy name, audio integrity checks, clip counts used vs budget, timeline coverage, unresolved errors, preview QA and one next action. Await requested approval before export when the user limited approval to generation/assembly.
+- When export was authorized, use an available FullHD 1080p MP4 option without additional purchases, verify download-ready status, and distinguish app success from independently checked final audio/visual export.
+- Never publish/share publicly without explicit approval. Public gallery setting OFF.
+- Completed reference: "It's My Way of Life — Jmjmcreatzvidz", exported approx. 3:34 at 1920×1080 using a 40.208s approved Talking Photos intro + original 173.832s song; 18 cutaways, 17 existing and one new, user approved both sound and picture. The approved video is a reference, NOT a template to overwrite.
+
+---
 # Jmjmcreatzvidz — Talking Photos Spokesperson Video Enhancer
 
 Adapted from the ai-playbooks Historical Documentary Video Workflow:
